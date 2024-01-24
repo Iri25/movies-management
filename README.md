@@ -1,5 +1,5 @@
 # movies-management
-C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in memory. Functionality tests were performed. The main class is Applications.
+C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in memory. Functionality tests were performed. The main class is Applications. The user interface is console type.
 
 Application for managing movies. The application supports the following operations: 
 1. Adding movie
