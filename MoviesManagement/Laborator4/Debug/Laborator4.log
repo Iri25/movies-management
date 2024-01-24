@@ -1,0 +1,40 @@
+﻿  operations.cpp
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,14): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,26): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,36): error C2182: 'reading': illegal use of type 'void'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,14): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,26): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,36): error C2182: 'display': illegal use of type 'void'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,30): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,42): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,58): error C2062: type 'char' unexpected
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,28): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,40): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,56): error C2062: type 'char' unexpected
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.cpp(19,6): error C2365: 'reading': redefinition; previous definition was 'data variable'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6): message : see declaration of 'reading'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.cpp(23,24): error C2664: 'Movie::Movie(const Movie &)': cannot convert argument 1 from 'char *' to 'const Movie &'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.cpp(23,24): message : Reason: cannot convert from 'char *' to 'const Movie'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.cpp(23,24): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\movie.h(17,5): message : see declaration of 'Movie::Movie'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.cpp(29,6): error C2365: 'display': redefinition; previous definition was 'data variable'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8): message : see declaration of 'display'
+  main.cpp
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,14): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,26): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(6,36): error C2182: 'reading': illegal use of type 'void'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,14): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,26): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(8,36): error C2182: 'display': illegal use of type 'void'
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,30): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,42): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(10,58): error C2062: type 'char' unexpected
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,28): error C2065: 'Repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,40): error C2065: 'repository': undeclared identifier
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\operations.h(12,56): error C2062: type 'char' unexpected
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\main.cpp(25,4): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\main.cpp(30,4): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\main.cpp(34,4): error C3861: 'filter_movies_by_gender': identifier not found
+C:\Users\Scorpion\Desktop\FMI\Programare orientata obiect\Laboratoare\Laborator 4-5\Laborator4\Laborator4\main.cpp(38,4): error C3861: 'filter_movies_by_date': identifier not found
+  repository.cpp
+  Generating Code...
